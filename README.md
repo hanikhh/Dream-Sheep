@@ -1,5 +1,7 @@
 # Dream-Sheep
 
+Proyek ini membawa revolusi dalam tradisi menghitung domba untuk membantu tidur. Dengan parade animasi domba yang menggemaskan, setiap karakter akan mengalami transformasi visual saat mereka melintasi pagar: berubah dari berlumpur menjadi berbusa, dan akhirnya menjadi bersih. Dream Sheep dirancang untuk menjadi teman tidur yang ideal dengan penggabungan cerita lama dan teknologi modern.
+
 # Kelompok 2
 
 |                    |                                                                     |
