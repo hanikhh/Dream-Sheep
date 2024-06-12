@@ -15,4 +15,4 @@
 
 # Preview
 
-![alt text](https://drive.google.com/file/d/1JmwmSbwwrQT9LEGYiNNenSF3ObW2J8jc/view?usp=sharing?raw-true)
+![alt text](https://github.com/hanikhh/Dream-Sheep/blob/main/Dream%20Sheep.mp4?raw-true)
