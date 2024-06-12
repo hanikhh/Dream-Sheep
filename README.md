@@ -15,4 +15,4 @@
 
 # Preview
 
-![alt text](https://github.com/hanikhh/Dream-Sheep/blob/main/Dream%20Sheep.mp4?raw-true)
+https://github.com/hanikhh/Dream-Sheep/assets/134683288/94192d98-29e3-49c6-ae97-e5e0fcd0ec81
