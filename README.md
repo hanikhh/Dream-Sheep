@@ -1,12 +1,8 @@
 # Dream-Sheep
 
-# Data Diri
+# Kelompok 2
 
 |                                                                                      |
-|--------------------------------------------------------------------------------------|
-|                                     **Kelompok 2**                                   |
-|                                                                                      |
-|--------------------------------------------------------------------------------------|
 |----------------|---------------------------------------------------------------------|
 | Nama Anggota   | **Arvilanti Devani**                              **(22104410075)** |
 |                | **Nur Cindy Intan Fanderella**                    **(22104410098)** |
@@ -17,4 +13,3 @@
 | Mata Kuliah    | MULTIMEDIA                                                          |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
 
-# SISTEM OPERASI
